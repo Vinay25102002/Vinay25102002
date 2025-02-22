@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Welcome to My Data Universe! 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600px">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600px">
 </p>
 
 ### Hi, I'm **Vinay Kumar KB**, a **Data Analyst** passionate about transforming complex data into meaningful insights. With expertise in **SQL, Python, Power BI, Tableau, and Excel**, I thrive on uncovering patterns, optimizing processes, and driving data-driven decisions.
