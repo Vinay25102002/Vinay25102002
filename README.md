@@ -2,6 +2,8 @@
 
 # **🚀 Welcome to My Data Universe!**  
 
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600px" align="center">
+
 👋 Hi, I'm **Vinay Kumar KB**, a **Data Analyst** passionate about turning complex data into meaningful insights. I love working with **SQL, Python, Power BI, Tableau, and Excel** to uncover patterns, optimize processes, and drive data-driven decisions.
 
 > _"Data is the new oil, and I'm here to refine it!"_
@@ -30,6 +32,8 @@
 📈 **Tools Used:** Power BI, SQL, Excel  
 🔗 [View Project](https://github.com/yourusername/hr-analytics-dashboard)
 
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="500px">
+
 ### 📌 **Manufacturing Production Optimization**  
 ⚙️ Improved production efficiency by 10% through data-driven decision-making.  
 📈 **Tools Used:** SQL, Power BI, Python  
@@ -55,3 +59,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaykumarkb25102002@gmail.com)
 
 🌟 _Open to exciting opportunities, collaborations, and data-driven discussions!_
+
+---
+
+![Thanks](https://media.giphy.com/media/l3q2Ip7FrmPElSxZ6/giphy.gif)
